@@ -1,0 +1,11 @@
+G:\ETEC\TCC\C# Atualizado\ConsultasDesk\ConsultasDesk\bin\Debug\ConsultasDesk.exe.config
+G:\ETEC\TCC\C# Atualizado\ConsultasDesk\ConsultasDesk\obj\Debug\ConsultasDesk.csprojResolveAssemblyReference.cache
+G:\ETEC\TCC\C# Atualizado\ConsultasDesk\ConsultasDesk\obj\Debug\ConsultasDesk.FrmLogin.resources
+G:\ETEC\TCC\C# Atualizado\ConsultasDesk\ConsultasDesk\obj\Debug\ConsultasDesk.FrmMenu.resources
+G:\ETEC\TCC\C# Atualizado\ConsultasDesk\ConsultasDesk\obj\Debug\ConsultasDesk.Properties.Resources.resources
+G:\ETEC\TCC\C# Atualizado\ConsultasDesk\ConsultasDesk\obj\Debug\ConsultasDesk.csproj.GenerateResource.Cache
+G:\ETEC\TCC\C# Atualizado\ConsultasDesk\ConsultasDesk\bin\Debug\ConsultasDesk.exe
+G:\ETEC\TCC\C# Atualizado\ConsultasDesk\ConsultasDesk\bin\Debug\ConsultasDesk.pdb
+G:\ETEC\TCC\C# Atualizado\ConsultasDesk\ConsultasDesk\obj\Debug\ConsultasDesk.exe
+G:\ETEC\TCC\C# Atualizado\ConsultasDesk\ConsultasDesk\obj\Debug\ConsultasDesk.pdb
+G:\ETEC\TCC\C# Atualizado\ConsultasDesk\ConsultasDesk\obj\Debug\ConsultasDesk.FrmCad.resources
